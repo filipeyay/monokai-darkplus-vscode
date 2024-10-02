@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="monokai_azure.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="1.5175781"
+     inkscape:cx="343.63964"
+     inkscape:cy="275.1094"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#1e1e1e;stroke-width:2.08445;stroke-linejoin:bevel;stroke-miterlimit:38.3;fill-opacity:1"
+       id="path1"
+       cx="256"
+       cy="256"
+       r="256" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';fill:#f9f9f9;fill-opacity:1;stroke-width:1.75748;stroke-linejoin:bevel;stroke-miterlimit:38.3"
+       x="17.921875"
+       y="290.05469"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="17.921875"
+         y="290.05469"><tspan
+           style="fill:#f92672;fill-opacity:1"
+           id="tspan2">M</tspan><tspan
+           style="fill:#a6e22e;fill-opacity:1"
+           id="tspan3">O</tspan><tspan
+           style="fill:#f4bf75;fill-opacity:1"
+           id="tspan4">N</tspan><tspan
+           style="fill:#66d9ef;fill-opacity:1"
+           id="tspan5">O</tspan><tspan
+           style="fill:#ae81ff;fill-opacity:1"
+           id="tspan6">K</tspan><tspan
+           style="fill:#2aa198;fill-opacity:1"
+           id="tspan7">A</tspan><tspan
+           style="fill:#f9f8f5;fill-opacity:1"
+           id="tspan8">I</tspan></tspan></text>
+  </g>
+</svg>

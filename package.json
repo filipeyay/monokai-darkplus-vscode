@@ -1,0 +1,35 @@
+{
+  "name": "monokai-darkplus",
+  "displayName": "Monokai DarkPlus",
+  "description": "A combination of the famous Monokai theme with the default VsCode Dark+ theme",
+  "version": "1.0.0",
+  "author": "Filipe Andrade (https://github.com/filipeyay)",
+  "icon": "images/monokai_vscode.png",
+  "keywords": [
+    "monokai",
+    "darkplus",
+    "monokai_vscode",
+    "monokaidark"
+  ],
+  "publisher": "filipeyay",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filipeyay/monokai-darkplus-vscode"
+  },
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai DarkPlus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai DarkPlus-color-theme.json"
+      }
+    ]
+  },
+  "license": "MIT"
+}
