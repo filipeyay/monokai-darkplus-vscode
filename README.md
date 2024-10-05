@@ -6,6 +6,10 @@ Simple theme, using Dark+ (default VSCode theme) for the window theme and Monoka
 
 Check the same theme but for [Azure Data Studio](https://github.com/filipeyay/monokai-darkplus-azure).
 
+![image](./images/Monokai_DarkPlus.png)
+
+![image](./images/Monokai_DarkPlus_Modern.png)
+
 ## Based on
 
 - The original Monokai Theme

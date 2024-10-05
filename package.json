@@ -2,7 +2,7 @@
   "name": "monokai-darkplus",
   "displayName": "Monokai DarkPlus",
   "description": "A combination of the famous Monokai theme with the default VsCode Dark+ theme",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Filipe Andrade (https://github.com/filipeyay)",
   "icon": "images/monokai_vscode.png",
   "keywords": [
