@@ -1,3 +1,9 @@
+# 1.2.0
+
+- Removed italics
+- New images
+- Edit README info
+
 # 1.1.1
 
 - Images on README

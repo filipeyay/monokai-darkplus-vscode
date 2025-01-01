@@ -138,7 +138,7 @@
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#66D9EF"
       }
     },
@@ -154,7 +154,7 @@
       "name": "Inherited class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "fontStyle": "italic underline",
+        "fontStyle": "underline",
         "foreground": "#A6E22E"
       }
     },
@@ -209,7 +209,7 @@
       "name": "Library class/type",
       "scope": "support.type, support.class",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#66D9EF"
       }
     },
@@ -291,7 +291,7 @@
     },
     {
       "name": "Markup Styling",
-      "scope": "markup.bold, markup.italic",
+      "scope": "markup.bold",
       "settings": {
         "foreground": "#66D9EF"
       }
