@@ -221,14 +221,16 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#F8F8F0"
+        //"foreground": "#F8F8F0"
+        "foreground": "#303034"
       }
     },
     {
       "name": "JSON String",
       "scope": "meta.structure.dictionary.json string.quoted.double.json",
       "settings": {
-        "foreground": "#CFCFC2"
+        //"foreground": "#CFCFC2"
+        "foreground": "#282802"
       }
     },
     {

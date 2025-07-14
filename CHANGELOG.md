@@ -1,3 +1,7 @@
+# 1.2.2
+
+- Fixed JSON string contrast
+
 # 1.2.1
 
 - Early stage light theme added
