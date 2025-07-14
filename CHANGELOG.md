@@ -1,3 +1,8 @@
+# 1.2.1
+
+- Early stage light theme added
+- Fixed minor erros on Windows Terminal Scheme file
+
 # 1.2.0
 
 - Removed italics
