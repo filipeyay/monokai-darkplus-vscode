@@ -2,7 +2,7 @@
 
 ## How to install
 
-Since this is just a editor theme you just need to download the **Monokai_DarkPlus.icls** file on this directory.
+Since this is just a editor theme you just need to download the **Monokai_DarkPlus.icls** or **Monokai_DarkPlus_Darcula.icls** file on this directory.
 
 Then go to:
 `Setting > Apparence & Behavior > Apparence.`
@@ -13,6 +13,7 @@ Finally select theme theme file on your computer.
 ## Showcase
 
 ![img](../../images/intellij_showcase.png)
+![img](../../images/intellij_darcula_showcase.png)
 
 ## Extra
 
