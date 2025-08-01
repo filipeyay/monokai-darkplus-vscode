@@ -1,1 +1,0 @@
-This is a backup of a work in progress, the theme is not finished.
