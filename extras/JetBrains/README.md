@@ -10,10 +10,15 @@ Then go to:
 On the `Editor color scheme:` click on the gear icon on the right and then click on `Import Scheme` and next click on `Intellij IDEA color scheme (.icls) or (.jar)`.
 Finally select theme theme file on your computer.
 
+Light theme was made using the eclipse theme as base. So it's not accurate.
+
 ## Showcase
 
 ![img](../../images/intellij_showcase.png)
+
 ![img](../../images/intellij_darcula_showcase.png)
+
+![img](../../images/intellij_light.png)
 
 ## Extra
 
