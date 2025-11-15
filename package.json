@@ -39,6 +39,11 @@
         "label": "Monokai DarkPlus Light",
         "uiTheme": "vs",
         "path": "./themes/Monokai DarkPlusLight-color-theme.json"
+      },
+      {
+        "label": "Monokai DarkPlus HighContrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/Monokai DarkPlus-HighContrast-color-theme.json"
       }
     ]
   },
