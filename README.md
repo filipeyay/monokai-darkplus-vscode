@@ -2,15 +2,19 @@
 
 A combination of the classic Monokai theme with the default Visual Studio Code Dark+ theme.
 
-![image](./images/Monokai_DarkPlus.png.png)
+![image](./images/monokai_darkplus_default_showcase.png)
 
-![image](./images/Monokai_DarkPlus_Modern.png.png)
+![image](./images/monokai_darkplus_modern_showcase.png)
 
-## Light Theme is here
+![image](./images/monokai_darkplus_light_showcase.png)
 
-![image](./images/Monokai_DarkPlus_Light.png)
+![image](./images/monokai_darkplus_highcontrast_showcase.png)
 
 ## Based on
 
 - The original Monokai Theme
 - The original Visual Studio Code Theme
+
+---
+
+Check [extras](./extras/) for more!
