@@ -6,6 +6,8 @@ A combination of the classic Monokai theme with the default Visual Studio Code D
 
 ![image](./images/monokai_darkplus_modern_showcase.png)
 
+![image](./images/monokai_darkplus_red_showcase.png)
+
 ![image](./images/monokai_darkplus_light_showcase.png)
 
 ![image](./images/monokai_darkplus_highcontrast_showcase.png)
