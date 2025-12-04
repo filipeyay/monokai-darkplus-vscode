@@ -150,7 +150,8 @@
     "list.hoverBackground": "#2e1f1f",
     "list.hoverForeground": "#cccccc",
     "editorSuggestWidget.foreground": "#E0FFFF",
-    "editorSuggestWidget.focusHighlightForeground": "#37FA97"
+    "editorSuggestWidget.focusHighlightForeground": "#37FA97",
+    "editor.lineHighlightBackground": "#3e2a2a"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
