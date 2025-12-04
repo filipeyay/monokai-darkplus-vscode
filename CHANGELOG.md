@@ -1,3 +1,8 @@
+# 1.4.0
+
+- New red theme
+- New bluish theme
+
 # 1.2.2
 
 - Fixed JSON string contrast
