@@ -1,3 +1,7 @@
+# 1.5.0
+
+- Theme will only contain the classic, modern and high contrast variants now
+
 # 1.4.0
 
 - New red theme
