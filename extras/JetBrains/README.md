@@ -16,15 +16,9 @@ Light theme was made using the eclipse theme as base. So it's not accurate.
 
 ![img](../../images/intellij_showcase.png)
 
-![img](../../images/intellij_darcula_showcase.png)
-
-![img](../../images/intellij_light.png)
-
 ## Extra
 
 This theme goes great with other two extensions (used on image above):
-
-- [Classic UI](https://plugins.jetbrains.com/plugin/24468-classic-ui)
 
 - [VSCode Theme](https://plugins.jetbrains.com/plugin/19177-vscode-theme)
 
